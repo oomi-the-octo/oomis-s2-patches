@@ -1,0 +1,12 @@
+[Rivals In Plaza]
+moduleMatches = 0x659c782e
+
+0x02625A18 = cmplwi r11, 2
+0x02625ECC = li r5, 3
+0x02625EDC = li r5, 3
+0x02625F04 = li r29, 3
+0x02626030 = li r29, 3
+0x0261C918 = cmpwi r6, 1
+0x0261C920 = beq 0x0261C92c
+0x0261CA60 = cmpwi r0,1
+0x0261CA70 = beq 0x0261CA7C

@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Rivals in Plaza
+path = "Splatoon/Mods/Plaza/Rivals in Plaza"
+description = Made by Pirlo. Allows for rival NPCs in the plaza! It was genuinely this easy... Special thanks to Ceris for finding the initial block on rivals being disallowed in the plaza. I spent a bit of time RE'ing the way the plaza NPCs were created to figure out you just needed one more instance of some things :D
+version = 6
