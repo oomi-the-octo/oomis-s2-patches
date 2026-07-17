@@ -1,0 +1,6 @@
+[Bypass No Friend Message]
+moduleMatches = 0x659c782e
+
+0x027ea38c = cmpwi r0, 0
+0x027ea398 = li r4, 2
+0x027ea7b4 = li r3, 0
