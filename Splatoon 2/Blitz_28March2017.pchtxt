@@ -120,3 +120,8 @@
 @disabled
 00064650 08810491
 02b76120 "TestField1763_Ttr"
+
+// Force "BgmMute" on by default [oomi_the_octo]
+@disabled
+00189c7c 28008052
+0073f020 28008052
