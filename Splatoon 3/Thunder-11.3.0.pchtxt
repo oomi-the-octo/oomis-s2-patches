@@ -1,0 +1,62 @@
+@nsobid-28C4287AEE36F7499DA60F3E68B54C70DA382D75
+# Splatoon 3 11.3.0
+
+@flag offset_shift 0x100
+
+// Silent Hit [oomi_the_octo]
+@disabled
+018F8348 20008052
+
+// Show All Versus Maps (Apply Before Boot) [oomi_the_octo]
+@disabled
+016A7BCC E8031F2A
+
+// ALL Weapons In Shop (Apply Before Boot) [oomi_the_octo]
+@disabled
+016B29BC E8031F2A
+016B2964 E8031F2A
+
+// Free Gear In Shop & Coop Scene [oomi_the_octo]
+@disabled
+0163CBBC E8031F2A
+0163CC14 E8031F2A
+0163CCB8 E8031F2A
+
+// Allows using Illegal gear/weapons in a versus room without getting an error, as long as the others also use this patch.
+// UserSettingValidation Error Bypasser [oomi_the_octo]
+@disabled
+03572DF0 C0035FD6
+
+// HowToGet = Shop [oomi_the_octo]
+@disabled
+01621328 00008052600200B9
+
+// HowToGet = Catalog [oomi_the_octo]
+@disabled
+01621328 20008052600200B9
+
+// HowToGet = Uroko (Salmon Run) [oomi_the_octo]
+@disabled
+01621328 40008052600200B9
+
+// HowToGet = Other [oomi_the_octo]
+@disabled
+01621328 60008052600200B9
+
+// HowToGet = Impossible [oomi_the_octo]
+@disabled
+01621328 80008052600200B9
+
+// Signal Unlimiter [oomi_the_octo]
+@disabled
+02AE6A48 1F2003D5
+02AE6978 1F2003D5
+
+// Show Gear & Weapon Codenames [BluCharro]
+@disabled
+04FFCE62 1F2003D5
+04fa333b 1F2003D5
+04fa331a 1F2003D5
+04f51176 1F2003D5
+05010d85 1F2003D5
+04f47653 1F2003D5
